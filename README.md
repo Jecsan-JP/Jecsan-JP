@@ -45,9 +45,9 @@ Frontend Developer with **4+ years** of experience building **e-commerce and hig
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jecsan-JP&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jecsan-JP&layout=compact&hide_border=true&theme=tokyonight" alt="top langs"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jecsan-JP&hide_border=true&theme=tokyonight" alt="GitHub streak stats"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jecsan-JP&hide_border=true&theme=tokyonight" alt="streak"/>
